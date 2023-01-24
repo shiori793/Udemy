@@ -1,0 +1,54 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block; */
+    /* position: relative;
+    left: 200px; */
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block; */
+    /* position: relative;
+    right: 100px; */
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block; */
+    /* position: relative;
+    right: 100px; */
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
