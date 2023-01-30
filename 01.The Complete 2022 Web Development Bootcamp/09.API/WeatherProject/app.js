@@ -18,7 +18,7 @@ app.post("/", (req, res) => {
         "port": null,
         "path": "/forecast.json?q=" + cityName + "&days=" + days,
         "headers": {
-            "X-RapidAPI-Key": "2909a03d4cmsh48c7839462aa24ep15ca6ejsn328972c49eef",
+            "X-RapidAPI-Key": "",
             "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
             "useQueryString": true
         }
