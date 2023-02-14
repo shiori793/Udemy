@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6edd69db-c396-45f6-886d-550ea797b19c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/day17-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day17-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/quiz-game-start.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6edd69db-c396-45f6-886d-550ea797b19c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/shior/Documents/Udemy/02.100 Days of Code The Complete Python Pro Bootcamp for 2022/Intermediate(day15-58)/day17/quiz-game-start/main.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shior/Documents/Udemy/02.100 Days of Code The Complete Python Pro Bootcamp for 2022/Intermediate(day15-58)/day17/quiz-game-start/main.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="quiz-game-start" />
@@ -72,6 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676336897944</updated>
     </task>
+    <task id="LOCAL-00001" summary="02-17 The quiz project &amp; the benefits of OOP">
+      <created>1676341640986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676341640986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="02-17 The quiz project &amp; the benefits of OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="02-17 The quiz project &amp; the benefits of OOP" />
   </component>
 </project>
